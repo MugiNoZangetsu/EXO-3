@@ -1,6 +1,6 @@
 # EXO-3
 
-Au collège de la vie
+Au lycée de la vie
 
 Ils jouent au prof d'histoire
 
